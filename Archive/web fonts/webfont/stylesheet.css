@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'seguisym';
+    src: url('seguisym.eot');
+    src: url('seguisym.eot?#iefix') format('embedded-opentype'),
+         url('seguisym.woff') format('woff'),
+         url('seguisym.ttf') format('truetype'),
+         url('seguisym.svg#existencelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
